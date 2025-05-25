@@ -1,15 +1,10 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# À propos
 
-Some information about you!
+Je m’appelle Clovis Olivier.  
+Je suis spécialisé en assurance qualité stratégique dans des environnements SaaS B2B à fort rythme.
 
-### More Information
+J’ai vécu les douleurs du scaling produit de l’intérieur : QA sous pression, bugs en production, équipes désalignées.
 
-A place to include any other types of information that you'd like to include about yourself.
+Aujourd’hui, j’aide les scale-ups à sortir d’une QA tayloriste pour adopter une culture qualité moderne, fluide, et intégrée à leur agilité réelle.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Basé à Montréal · Travaillant à distance ou sur place
