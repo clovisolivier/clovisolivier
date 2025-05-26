@@ -8,4 +8,4 @@ Je les aide à :
 - Fluidifier les échanges entre tech, produit et QA,
 - Sécuriser un delivery rapide, maîtrisé et crédible.
 
-[En savoir plus](./about.html) · [Travaillons ensemble](./offre.html) · [Notes](./blog.html)
+[En savoir plus](./about.html) · [Travaillons ensemble](./offre.html) · [Blog](./blog.html)
