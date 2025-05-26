@@ -1,5 +1,3 @@
-# Clovis Olivier
-
 ## J’aide les scale-ups SaaS B2B post-product-market-fit à réconcilier agilité et qualité.
 
 Beaucoup d’équipes pensent faire du QA Agile.  
